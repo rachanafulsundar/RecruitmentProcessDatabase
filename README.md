@@ -12,10 +12,7 @@ This project is a database management system for the Recruitment branch of the H
 4. [Implementation](#implementation)
 5. [Testing](#testing)
 6. [Technologies Used](#technologies-used)
-7. [Setup Instructions](#setup-instructions)
-8. [How to Use](#how-to-use)
-9. [Conclusion](#conclusion)
-10. [Author](#author)
+
 
 ---
 
